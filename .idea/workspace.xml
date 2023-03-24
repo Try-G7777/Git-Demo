@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc764bab-09f6-40f5-8ede-4399c07c4af3" name="Default Changelist" comment="" />
+    <list default="true" id="bc764bab-09f6-40f5-8ede-4399c07c4af3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679638614069</updated>
-      <workItem from="1679638616413" duration="2871000" />
+      <workItem from="1679638616413" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="尝试第一次提交">
       <created>1679639344573</created>
@@ -106,11 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679642501948</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="项目自生配置">
+      <created>1679642787315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679642787315</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -158,6 +170,7 @@
     <MESSAGE value="尝试第二次提交" />
     <MESSAGE value="尝试第三次提交" />
     <MESSAGE value="尝试第四次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="尝试第四次提交" />
+    <MESSAGE value="项目自生配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目自生配置" />
   </component>
 </project>
