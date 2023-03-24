@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc764bab-09f6-40f5-8ede-4399c07c4af3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23435223" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -82,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679638614069</updated>
       <workItem from="1679638616413" duration="3501000" />
-      <workItem from="1679643283017" duration="1360000" />
+      <workItem from="1679643283017" duration="5666000" />
     </task>
     <task id="LOCAL-00001" summary="尝试第一次提交">
       <created>1679639344573</created>
@@ -126,7 +127,42 @@
       <option name="project" value="LOCAL" />
       <updated>1679643010567</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="嘿嘿嘿嘿">
+      <created>1679646660493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679646660493</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test分支修改">
+      <created>1679648153769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679648153769</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test分支修改2">
+      <created>1679648442696</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679648442696</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test分支修改3   增加了hello test">
+      <created>1679650066588</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679650066588</updated>
+    </task>
+    <task id="LOCAL-00011" summary="master分支修改3   增加了hello master">
+      <created>1679650179761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679650179761</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,11 +204,37 @@
             <State />
           </value>
         </entry>
+        <entry key="fb1558f6-aa01-4c40-9898-2313bf0b02b4">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:F:/gitSource/Git-Demo/demo-module-1/src/com/duyi" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="37e0d6aa-7087-479d-9948-71a5c0ba9058" value="TOOL_WINDOW" />
+        <entry key="fb1558f6-aa01-4c40-9898-2313bf0b02b4" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -184,6 +246,11 @@
     <MESSAGE value="尝试第四次提交" />
     <MESSAGE value="项目自生配置" />
     <MESSAGE value="测试回退" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试回退" />
+    <MESSAGE value="嘿嘿嘿嘿" />
+    <MESSAGE value="test分支修改" />
+    <MESSAGE value="test分支修改2" />
+    <MESSAGE value="test分支修改3   增加了hello test" />
+    <MESSAGE value="master分支修改3   增加了hello master" />
+    <option name="LAST_COMMIT_MESSAGE" value="master分支修改3   增加了hello master" />
   </component>
 </project>
